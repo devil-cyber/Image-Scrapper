@@ -1,5 +1,6 @@
 ### This is a Selenium based Image scrapper to scarp image for different deep learning projects
 # How to execute this code
+- Note : Chrom Browser is Necessary
 - Step 0 : Create an seprate enivornment using anaconda prompt "conda create -n image_scrapper python==3.6.9"
 - Step 1 : pip install -r requirements .txt
 - Step 2 : make sure you have chrome installed on your machine
